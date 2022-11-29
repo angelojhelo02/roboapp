@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Amberg Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Amberg Regular"), url("Amberg.woff") format("woff");
+}
+
+h1 {
+  font-family: "Amberg Regular";
+  color: #0ccac4;
+  font-weight: 200;
+}
