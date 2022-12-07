@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/roboapp/static/css/main.c496bef3.css",
+    "main.js": "/roboapp/static/js/main.c5b702d3.js",
+    "static/media/Amberg.woff": "/roboapp/static/media/Amberg.8b388389017224d28811.woff",
+    "index.html": "/roboapp/index.html",
+    "main.c496bef3.css.map": "/roboapp/static/css/main.c496bef3.css.map",
+    "main.c5b702d3.js.map": "/roboapp/static/js/main.c5b702d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c496bef3.css",
+    "static/js/main.c5b702d3.js"
+  ]
+}
